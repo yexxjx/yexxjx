@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yexxjx&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexxjx&layout=compact&theme=default&hide_border=true" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=75e6da&height=250&section=header&text=YEXXJX&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Business%20Value%20Creator%20|%20Full-stack%20Developer&descAlignY=65&descSize=20&fontColor=ffffff)
+
 
 ##
 
-Study.. 📚 <div align="left">
+Stack.. 💻 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
@@ -18,3 +16,9 @@ Study.. 📚 <div align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="35" />
 </div>
+
+##
+Stats.. 📈 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yexxjx&show_icons=true&hide_rank=true&title_color=75e6da&icon_color=75e6da&text_color=777777&bg_color=ffffff00" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexxjx&layout=compact&title_color=75e6da&icon_color=75e6da&text_color=777777&bg_color=ffffff00" alt="langs" />
+</p>

@@ -1,5 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yexxjx&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yexxjx&layout=compact&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yexxjx&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexxjx&layout=compact&theme=default&hide_border=true" />
+</div>
+
+##
 
 Study.. 📚 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />

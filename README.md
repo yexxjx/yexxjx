@@ -1,5 +1,11 @@
+<div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75e6da&height=250&section=header&text=YEXXJX&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend-Developer%20&descAlignY=65&descSize=20&fontColor=ffffff)
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yexxjx)
+[![Email](https://img.shields.io/badge/Email-kimsungeun0318-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yexxjx@gmail.com)
+</div>
 
 
 ##

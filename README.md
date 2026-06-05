@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=75e6da&height=250&section=header&text=YEXXJX&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Business%20Value%20Creator%20|%20Full-stack%20Developer&descAlignY=65&descSize=20&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=75e6da&height=250&section=header&text=YEXXJX&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Business%20Value%20Backend-Developer%20&descAlignY=65&descSize=20&fontColor=ffffff)
+
 
 
 ##

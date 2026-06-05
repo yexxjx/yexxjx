@@ -3,8 +3,8 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Sungeun0318-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yexxjx)
-[![Email](https://img.shields.io/badge/Email-kimsungeun0318-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yexxjx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yexxjx?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yexxjx)
+[![Email](https://img.shields.io/badge/Email-yexxjx-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yexxjx@gmail.com)
 </div>
 
 

@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75e6da&height=250&section=header&text=YEXXJX&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend-Developer%20&descAlignY=65&descSize=20&fontColor=ffffff)
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Sungeun0318/Sungeun0318/blob/main/portfolio.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yexxjx/yexxjx/blob/main/%EC%9D%B4%EC%97%B0%EC%A7%80%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-yexxjx?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yexxjx)
 [![Email](https://img.shields.io/badge/Email-yexxjx-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yexxjx@gmail.com)
 </div>

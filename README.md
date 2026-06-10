@@ -35,33 +35,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yexxjx&theme=github_dark" height="160" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=yexxjx&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=yexxjx&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yexxjx&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexxjx&theme=github_dark&utcOffset=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexxjx&theme=default&utcOffset=9" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexxjx&theme=github_dark&utcOffset=9" height="160" />
-</picture>
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yexxjx&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yexxjx&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yexxjx&theme=github_dark" height="160" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexxjx&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexxjx&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexxjx&theme=github_dark" height="160" />
-</picture>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexxjx&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexxjx&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexxjx&theme=github_dark" width="98%" />
-</picture>
-</div>
-<br>
